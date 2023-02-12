@@ -19,12 +19,57 @@
       }
     },
     {
+      "identity" : "bson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenKitten/BSON.git",
+      "state" : {
+        "revision" : "ff36ca6d4aabe234301fbf4bfb891f91e26a5f70",
+        "version" : "7.0.30"
+      }
+    },
+    {
       "identity" : "console-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/console-kit.git",
       "state" : {
         "revision" : "447f1046fb4e9df40973fe426ecb24a6f0e8d3b4",
         "version" : "4.6.0"
+      }
+    },
+    {
+      "identity" : "fluent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent.git",
+      "state" : {
+        "revision" : "2da106f46b093885f77fa03e3c719ab5bb8cfab4",
+        "version" : "4.6.0"
+      }
+    },
+    {
+      "identity" : "fluent-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent-kit.git",
+      "state" : {
+        "revision" : "10f32130a0f7e29de8def48edf69564c36cf3b74",
+        "version" : "1.38.0"
+      }
+    },
+    {
+      "identity" : "fluent-mongo-driver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent-mongo-driver.git",
+      "state" : {
+        "revision" : "8d48a0f8f1fbf04cf4557c0315f8679caf1dcc75",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "mongokitten",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenKitten/MongoKitten.git",
+      "state" : {
+        "revision" : "f2d245e50143e9d940566dd2d20914c040f34b9f",
+        "version" : "6.7.6"
       }
     },
     {
@@ -37,12 +82,30 @@
       }
     },
     {
+      "identity" : "niodns",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenKitten/NioDNS.git",
+      "state" : {
+        "revision" : "c4a22908f5c936201b30abc608b3f2a46120ad2c",
+        "version" : "2.2.0"
+      }
+    },
+    {
       "identity" : "routing-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/routing-kit.git",
       "state" : {
         "revision" : "ffac7b3a127ce1e85fb232f1a6271164628809ad",
         "version" : "4.6.0"
+      }
+    },
+    {
+      "identity" : "sql-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/sql-kit.git",
+      "state" : {
+        "revision" : "fcc29f543b3de7b661cbe7540805974234cb9740",
+        "version" : "3.24.0"
       }
     },
     {
